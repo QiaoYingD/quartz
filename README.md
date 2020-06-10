@@ -1,5 +1,6 @@
 # quartz
-Project launch quartz recovery task
+springboot集成Quartz 项目重启Quartz自动恢复任务
+
 
 
 Quartz 相关配置、用法
